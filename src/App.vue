@@ -8,7 +8,11 @@
   </div>
 </template>
 
-<style>
+<style scoped>
+* {
+  margin: 0px;
+}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
